@@ -2,7 +2,7 @@
 
 
 ## What are we?
-BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. They have an official Discord server for Minecraft PE | Minecraft Bedrock Edition Texture Packs and more. Their website also showcases other projects they are working on.
+BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. They have an official Discord server for Minecraft PE | Minecraft Bedrock Edition Texture Packs and more. On our website you can also find other projects we are working on.
 
 We are owned by the parent organization/company RushNation Studios
 
