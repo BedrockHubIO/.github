@@ -8,7 +8,9 @@ We are owned by the parent organization/company RushNation Studios
 
 - [RushNation Studios](https://rushnation.net) 
 ## What can we do?
-We can develop apps (with Flutter), websites, and backends. We have extensive knowledge of programming languages or applications such as Docker, Kubernetes, etc. We are proficient in programming languages such as Go, Java, C#, Dart, Javascript, and TypeScript.
+We can develop apps (with Flutter), websites, and backends. We have extensive knowledge of programming languages or applications such as Docker, Kubernetes, etc. We are proficient in programming languages such as:
+
+Go, Java, C#, Dart, Javascript, and TypeScript.
 
 ## Our app store accounts:
 [IOS](https://apps.apple.com/us/developer/rushnation-studios/id1546403663=)
