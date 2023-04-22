@@ -1,1 +1,15 @@
-# .github
+![BedrockHub.IO](https://play-lh.googleusercontent.com/ZnKmtnKGdY-tHUogLRFESXypYDoZcMfFjqGwuYreMZuNhWSrHQJ9K3vOt7HyI1ART1U=w3840-h2160-rw)
+
+## What are we?
+BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. They have an official Discord server for Minecraft PE | Minecraft Bedrock Edition Texture Packs and more. Their website also showcases other projects they are working on.
+
+We are owned by the parent organization/company RushNation Studios
+
+- [RushNation Studios](https://rushnation.net) 
+## What can we do?
+We can develop apps (with Flutter), websites, and backends. We have extensive knowledge of programming languages or applications such as Docker, Kubernetes, etc. We are proficient in programming languages such as Go, Java, C#, Dart, Javascript, and TypeScript.
+
+## Our app store accounts:
+[IOS](https://apps.apple.com/us/developer/rushnation-studios/id1546403663=)
+
+[Android](https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US)
