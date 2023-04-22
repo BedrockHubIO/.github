@@ -1,7 +1,7 @@
 ![BedrockHub.IO](https://user-images.githubusercontent.com/24614527/233809161-f4e5c33c-d023-41c8-9959-0c10e2d3881a.png)
 
 ## What defines us?
-BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. [We have an official Discord server for Minecraft PE](https://discord.bedrockhub.io) | Minecraft Bedrock Edition Texture Packs and more. The website also showcases other projects we are working on.
+BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. [We have an official Discord server](https://discord.bedrockhub.io) | for Minecraft PE Minecraft Bedrock Edition Texture Packs and more. The website also showcases other projects we are working on.
 
 We are owned by the parent organization/company RushNation Studios
 
