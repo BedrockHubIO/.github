@@ -10,6 +10,6 @@ We are owned by the parent organization/company RushNation Studios
 We are a versatile tech company specializing in app and web development, with expertise in cutting-edge technologies and programming languages, committed to delivering innovative and efficient solutions.
 
 ## Our app store accounts:
-[IOS](https://apps.apple.com/us/developer/rushnation-studios/id1546403663=)
+![https://cdn.discordapp.com/attachments/1022232337938911262/1099715580895953006/App_Store.png](https://apps.apple.com/us/developer/rushnation-studios/id1546403663)
 
-[Android](https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US)
+![https://cdn.discordapp.com/attachments/1022232337938911262/1099715581281849456/Google_Play.png](https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US)
