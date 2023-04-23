@@ -14,4 +14,5 @@ We are a versatile tech company specializing in app and web development, with ex
 
 [![Google Playstore](https://cdn.discordapp.com/attachments/1022232337938911262/1099715581281849456/Google_Play.png)](https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US)
 
-<img src="https://cdn.discordapp.com/attachments/1022232337938911262/1099715580895953006/App_Store.png" width="120">(https://apps.apple.com/us/developer/rushnation-studios/id154640366)
+<a href="https://apps.apple.com/us/developer/rushnation-studios/id1546403663"><img src="https://cdn.discordapp.com/attachments/1022232337938911262/1099715580895953006/App_Store.png" width="512"></a>
+
