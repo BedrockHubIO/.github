@@ -7,7 +7,7 @@ We are owned by the parent organization RushNation Studios
 
 - [RushNation Studios](https://rushnation.net)
 
-- Company: [GKM interactive UG](https://gkminteractive.com)
+- Company: [GKM Interactive UG](https://gkminteractive.com)
   
 ## What can we do?
 We are a versatile tech company specializing in app and web development, with expertise in cutting-edge technologies and programming languages, committed to delivering innovative and efficient solutions.
