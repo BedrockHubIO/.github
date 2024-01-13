@@ -3,11 +3,14 @@
 ## What defines us?
 BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. [We have an official Discord server](https://discord.bedrockhub.io) | for Minecraft PE Minecraft Bedrock Edition Texture Packs and more. The website also showcases other projects we are working on.
 
-We are owned by the parent organization/company RushNation Studios
+We are owned by the parent organization RushNation Studios
 
 - [RushNation Studios](https://rushnation.net) 
 ## What can we do?
 We are a versatile tech company specializing in app and web development, with expertise in cutting-edge technologies and programming languages, committed to delivering innovative and efficient solutions.
+
+- Company: [gkminteractive.](https://gkminteractive.com)
+
 
 ## Our app store accounts:
 
