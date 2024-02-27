@@ -1,4 +1,4 @@
-![BedrockHub.IO](banner.png)
+![BedrockHub.IO](images/banner.png)
 
 ## What defines us?
 BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. [We have an official Discord server](https://discord.bedrockhub.io) | for Minecraft PE Minecraft Bedrock Edition Texture Packs and more. The website also showcases other projects we are working on.
