@@ -15,5 +15,5 @@ We are a versatile tech company specializing in app and web development, with ex
 
 ## Our app store accounts:
 
-<a href="https://apps.apple.com/us/developer/rushnation-studios/id1546403663"><img src="https://cdn.discordapp.com/attachments/1022232337938911262/1099722598797029376/App_Store.png" width="350"></a> <a href="https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US"><img src="https://cdn.discordapp.com/attachments/1022232337938911262/1099723071788687540/Google_Play.png" width="350"></a>
+<a href="https://apps.apple.com/de/developer/gkm-interactive-ug-haftungsbeschr%C3%A4nkt/id1731438269"><img src="./appstore.png" width="350"></a> <a href="https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US"><img src="./googleplay.png" width="350"></a>
 
