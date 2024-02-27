@@ -1,4 +1,4 @@
-![BedrockHub.IO](https://user-images.githubusercontent.com/24614527/233809161-f4e5c33c-d023-41c8-9959-0c10e2d3881a.png)
+![BedrockHub.IO](https://play-lh.googleusercontent.com/eoHQcJM6WYyXqUCfaDV6Srn4sSxyR8JSCc07b4HoJIGjxVjlQ1WE2M95LVIpQ7p_BNjI=w3840-h2160-rw)
 
 ## What defines us?
 BedrockHub.IO is an organization that focuses on Minecraft Bedrock Edition. [We have an official Discord server](https://discord.bedrockhub.io) | for Minecraft PE Minecraft Bedrock Edition Texture Packs and more. The website also showcases other projects we are working on.
