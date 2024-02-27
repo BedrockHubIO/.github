@@ -15,5 +15,5 @@ We are a versatile tech company specializing in app and web development, with ex
 
 ## Our app store accounts:
 
-<a href="https://apps.apple.com/de/developer/gkm-interactive-ug-haftungsbeschr%C3%A4nkt/id1731438269"><img src="./appstore.png" width="350"></a> <a href="https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US"><img src="./googleplay.png" width="350"></a>
+<a href="https://apps.apple.com/de/developer/gkm-interactive-ug-haftungsbeschr%C3%A4nkt/id1731438269"><img src="./images/appstore.png" width="350"></a> <a href="https://play.google.com/store/apps/dev?id=8473970092605055225&hl=gsw&gl=US"><img src="./images/googleplay2.png" width="350"></a>
 
